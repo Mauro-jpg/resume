@@ -1,0 +1,71 @@
+{
+    "presentation" : {
+        "name" : "Mauro Nievas",
+        "linkedin" : "https://www.linkedin.com/in/mauro-nievas-11b0bb11b/",
+        "github" : "https://github.com/MauroNieva5",
+        "biografy" : "Soy un joven apasionado de la informática, estudió programación de forma autodidacta desde mis 12 años, actualmente estoy cursando la carrera de ingeniería en computación y tengo experiencia con diversas tecnologías, llevo casi 5 años con Javascript y Python, y he desarrollado tanto para backend como para frontend,\n espero poder conocernos mejor!,\n Saludos cordiales"
+    },
+    "companies" : [
+        {
+            "name":"Upshow",
+            "job" :"Programador Jr",
+            "experience" : "Desarrollo en react, node.js, graphql, elastic, análisis y métricas de datos y experiencia con metodología Scrum",
+            "start" : "Julio 2021",
+            "end" : "Marzo 2022"
+        },
+        {
+            "name":"Hacknoid",
+            "job" :"Programador Ssr",
+            "experience" : "Desarrollo en react, node.js, Desarrollo de Programa orientado al control de vulnerabilidades web y hethical hacknig, operador de la misma herramienta, trabajos de pentesting y desarrollo de informes Programación de webservice en Python, Frontend en Javascript, PHP y HTML5, control de consultas Mysql y base de datos, soporte a clientes en producción, planificación de la estructura y capacitación y control a programadores Juniors",
+            "start" : "Junio 2018",
+            "end" : "Julio 2021"
+        },
+        {
+            "name":"Urudata",
+            "job" :"Técnico Jr",
+            "experience" : "Reparación de PCs, Atención al cliente, mantenimiento y relevamiento de distintos Data Center, Guardia de alertas en servidores y Clonado de equipos",
+            "start" : "Junio 2019",
+            "end" : "Enero 2020"
+        },
+        {
+            "name":"Gestion Total",
+            "job" :"Programador Jr",
+            "experience" : "Programación de apps en servidor web con el uso Python, Javascript y Query, gestión y actualización de datos",
+            "start" : "Julio 2017",
+            "end" : "Abril 2018"
+        },
+        {
+            "name":"Sistema UFO",
+            "job" :"Desarrollador web",
+            "experience" : "Encargado de la página sistemaufo.com, manejo de joomla, photoshop, HTML5 y MySql",
+            "start" : "Octubre 2015",
+            "end" : "Noviembre 2015"
+        }
+    ],
+    "studies" : [
+        {
+            "name":"Cursando Ingenieria en computación",
+            "job" :"facultad de Ingeniería Udelar",
+            "start" : "Marzo 2017",
+            "end" : "Actualidad"
+        },
+        {
+            "name":"Bachillerato en informática",
+            "job" :"UTU Tacuarembó",
+            "start" : "2014",
+            "end" : "2016"
+        },
+        {
+            "name":"Reparación PC",
+            "job" :"UTU Tacuarembó",
+            "start" : "2013",
+            "end" : "2014"
+        },
+        {
+            "name":"Bachillerato de Administración",
+            "job" :"UTU Tacuarembó",
+            "start" : "2011",
+            "end" : "2012"
+        }
+    ]
+}
